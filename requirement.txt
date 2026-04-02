@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+sqlalchemy
+jupyter
+ipykernel
