@@ -1,5 +1,11 @@
 requests
 beautifulsoup4
 pandas
-numpy matplotlib seaborn plotly
-dash sqlalchemy jupyter ipykernel
+numpy
+matplotlib
+seaborn
+plotly
+dash
+sqlalchemy
+jupyter
+ipykernel

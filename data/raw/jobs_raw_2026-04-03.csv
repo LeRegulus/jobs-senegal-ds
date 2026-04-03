@@ -1,0 +1,19 @@
+﻿title,company,location,salary_raw,contract,description,link,scraped_at
+Développeur Python Django,Orange Sénégal,Dakar,600 000 - 900 000 FCFA,CDI,"Maîtrise de Python, Django, REST API, PostgreSQL.
+        Expérience Docker et déploiement cloud AWS requise.
+        Bon niveau en Git et méthodologie Agile/Scrum.",/offre/123,2026-04-03
+Data Analyst BI,Expresso Télécom,Dakar,500 000 - 750 000 FCFA,CDD,"SQL avancé, Power BI ou Tableau, Python Pandas.
+        Connaissance de l'écosystème data (ETL, datawarehouse).
+        Anglais professionnel exigé.",/offre/124,2026-04-03
+Développeur Mobile Flutter,Wave Mobile Money,Dakar,,CDI,"Flutter, Dart, Firebase, REST API.
+        Expérience Android/iOS natif appréciée.
+        Travail en équipe Agile, livraisons régulières.",/offre/125,2026-04-03
+Ingénieur DevOps / Cloud,Sonatel,Thiès,900 000 - 1 200 000 FCFA,CDI,"Docker, Kubernetes, Terraform, AWS ou GCP.
+        CI/CD Jenkins ou GitHub Actions.
+        Python scripting, Linux avancé.",/offre/126,2026-04-03
+Développeur Full Stack React/Node,InnoTech Sénégal,Dakar,450 000 - 700 000 FCFA,CDI,"React.js, Node.js, TypeScript, MongoDB, PostgreSQL.
+        GraphQL apprécié. Maîtrise Git workflow.
+        Bon niveau en CI/CD.",/offre/127,2026-04-03
+Développeur Full Stack React/Symfony,ATPS Sénégal,Dakar,450 000 - 700 000 FCFA,CDD,"React.js, Symfony, TypeScript, MongoDB, PostgreSQL.
+        GraphQL apprécié. Maîtrise Git workflow.
+        Bon niveau en tests unitaires.",/offre/128,2026-04-03
